@@ -1,0 +1,42 @@
+{
+  "name": "Puss in Boots",
+  "description": "World-wide known cat for its stealing ability as well as royal manage of the sword. Don't let him fool you with his cuteness.", 
+  "external_url": "https://www.pinterest.es/pin/700520917054289707/", 
+  "image": "https://drive.google.com/file/d/1kWTN4PQcsGHEW4DCMUd_wayrCxWJkHEo/view?usp=share_link",
+  "attributes": [
+    {
+      "trait_type": "Type", 
+      "value": "Fighter"
+    }, 
+    {
+      "trait_type": "Color", 
+      "value": "Gold-white"
+    }, 
+    {
+      "trait_type": "Personality", 
+      "value": "Cute"
+    }, 
+            {
+      "trait_type": "Level", 
+      "value": 99
+    }, 
+    {
+      "trait_type": "Ability", 
+      "value": "Sword mastery",
+    }, 
+        {
+      "trait_type": "Health", 
+      "value": 1250
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Capture probability", 
+      "value": 15
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 0
+    }
+  ]
+}
