@@ -10,6 +10,10 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract RandomCatsCollection is ERC721, ERC721Enumerable, ERC721URIStorage, ERC721Burnable, Ownable {
     constructor() ERC721("Random Cats Collection", "RCC") {}
 
+    function _baseURI() internal pure override returns (string memory) {
+        return "ipfs://bafybeietmepixhmjrod65qjjy45dq7z7j5uzvcpnm7d7ohr3tigzalceb4";
+    }
+
     function safeMint(address to, uint256 tokenId, string memory uri)
         public
         onlyOwner
