@@ -1,0 +1,42 @@
+{
+  "name": "Screaming Cat",
+  "description": "He seems a bit upset, regardless of his appearance he has no life issues, just lost his private keys. Watch out for him, he might bite you if needed.", 
+  "external_url": "https://www.pinterest.es/pin/72409506518724758/", 
+  "image": "https://drive.google.com/file/d/1ynJanx19WdygGDjiVesrnYy-lnUPVtnI/view?usp=sharing",
+  "attributes": [
+    {
+      "trait_type": "Type", 
+      "value": "Ghost"
+    }, 
+    {
+      "trait_type": "Color", 
+      "value": "Unknown"
+    }, 
+    {
+      "trait_type": "Personality", 
+      "value": "Unknown"
+    }, 
+            {
+      "trait_type": "Level", 
+      "value": 15
+    }, 
+    {
+      "trait_type": "Ability", 
+      "value": "Screaming and biting",
+    }, 
+        {
+      "trait_type": "Health", 
+      "value": 750
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Capture probability", 
+      "value": 30
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 0
+    }
+  ]
+}
