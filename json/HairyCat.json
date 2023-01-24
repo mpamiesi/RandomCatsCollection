@@ -1,0 +1,42 @@
+{
+  "name": "Hairy Cat",
+  "description": "Unique cat with a hair as long as Rapunzel, despite that he might be thinking about getting a fresh cut. Presents anger issues.", 
+  "external_url": "https://www.pinterest.es/pin/379006124898402104/", 
+  "image": "https://drive.google.com/file/d/1ZX1gFuFLuiYeJ4-CGYTXJKJXiwP_EA7D/view?usp=share_link",
+  "attributes": [
+    {
+      "trait_type": "Type", 
+      "value": "Princess"
+    }, 
+    {
+      "trait_type": "Color", 
+      "value": "Snow-white"
+    }, 
+    {
+      "trait_type": "Personality", 
+      "value": "Grumpy"
+    }, 
+            {
+      "trait_type": "Level", 
+      "value": 15
+    }, 
+    {
+      "trait_type": "Ability", 
+      "value": "Laser eyes",
+    }, 
+        {
+      "trait_type": "Health", 
+      "value": 1500
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Capture probability", 
+      "value": 35
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 0
+    }
+  ]
+}
