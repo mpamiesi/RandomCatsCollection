@@ -11,7 +11,7 @@ contract RandomCatsCollection is ERC721, ERC721Enumerable, ERC721URIStorage, ERC
     constructor() ERC721("Random Cats Collection", "RCC") {}
 
     function _baseURI() internal pure override returns (string memory) {
-        return "ipfs://bafybeietmepixhmjrod65qjjy45dq7z7j5uzvcpnm7d7ohr3tigzalceb4";
+        return "https://bafybeifjdb6u5hylcr2obcimamhjso4z6qfxcezfj4klny6rnkcctnopdq.ipfs.dweb.link/";
     }
 
     function safeMint(address to, uint256 tokenId, string memory uri)
