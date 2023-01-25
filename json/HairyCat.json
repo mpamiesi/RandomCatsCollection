@@ -1,7 +1,7 @@
 {
   "name": "Hairy Cat",
   "description": "Unique cat with a hair as long as Rapunzel, despite that he might be thinking about getting a fresh cut. Presents anger issues.", 
-  "image": "https://bafybeietmepixhmjrod65qjjy45dq7z7j5uzvcpnm7d7ohr3tigzalceb4.ipfs.dweb.link/Images/Hairy%20Cat.jpg",
+  "image": "ipfs://bafybeie2nycbjztbss6gswo77ffmzz4zpddr7hrr6idkblng6vj5lwmya4/HairyCat.jpg",
   "attributes": [
     {
       "trait_type": "Type", 
