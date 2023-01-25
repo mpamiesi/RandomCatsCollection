@@ -1,7 +1,7 @@
 {
   "name": "Thug Cat",
   "description": "The toughest cat out there, he stays quiet and low key but might call his catgang if needed.", 
-  "image": "https://bafybeietmepixhmjrod65qjjy45dq7z7j5uzvcpnm7d7ohr3tigzalceb4.ipfs.dweb.link/Images/Thug%20Cat.jpg",
+  "image": "ipfs://bafybeie2nycbjztbss6gswo77ffmzz4zpddr7hrr6idkblng6vj5lwmya4/ThugCat.jpg",
   "attributes": [
     {
       "trait_type": "Type", 
