@@ -5,15 +5,15 @@
   "attributes": [
     {
       "trait_type": "Type", 
-      "value": "Princess"
+      "value": "Princess",
     }, 
     {
       "trait_type": "Color", 
-      "value": "Snow-white"
+      "value": "Snow-white",
     }, 
     {
       "trait_type": "Personality", 
-      "value": "Grumpy"
+      "value": "Grumpy",
     }, 
             {
       "trait_type": "Level", 
