@@ -5,15 +5,15 @@
   "attributes": [
     {
       "trait_type": "Type", 
-      "value": "Ghost"
+      "value": "Ghost",
     }, 
     {
       "trait_type": "Color", 
-      "value": "Unknown"
+      "value": "Unknown",
     }, 
     {
       "trait_type": "Personality", 
-      "value": "Unknown"
+      "value": "Unknown",
     }, 
             {
       "trait_type": "Level", 
